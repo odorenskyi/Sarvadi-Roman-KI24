@@ -1,0 +1,6 @@
+﻿  main.cpp
+  mylib.cpp
+D:\labs\project 9\project 9\mylib.cpp(67,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка D:\labs\project 9\x64\Debug\project 9.exe при последней инкрементной компоновке; выполняется полная компоновка
+  project 9.vcxproj -> D:\labs\project 9\x64\Debug\project 9.exe
